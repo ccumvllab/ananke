@@ -3,46 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/post/all/</loc>
+    <loc>https://ccumvllab.github.io/ananke/post/all/</loc>
     <lastmod>2019-01-09T03:59:27+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/post/%E5%90%B3%E4%BF%8A%E6%BC%A2/</loc>
+    <loc>https://ccumvllab.github.io/ananke/post/%E5%90%B3%E4%BF%8A%E6%BC%A2/</loc>
     <lastmod>2019-01-09T02:11:57+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://ccumvllab.github.io/ananke/post/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://ccumvllab.github.io/ananke/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://ccumvllab.github.io/ananke/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://ccumvllab.github.io/ananke/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://ccumvllab.github.io/ananke/</loc>
     <lastmod>2019-01-09T03:59:27+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
